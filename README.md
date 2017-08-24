@@ -1,7 +1,7 @@
 # CWS_LSTM
 use bi-LSTM to do Chinese Word Segmentation
 
-The executable script is CWS_LSTM/src/script.py
+The executable script is CWS_LSTM/script.py
 Before you can run script.py, you need to change the absolute path in CWS_LSTM/src/config.py to your settings.
 Then you can run script.py:
   $python script.py input_file_name, output_file_name, gold_file_name
